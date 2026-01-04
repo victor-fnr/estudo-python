@@ -1,0 +1,52 @@
+VISÃO MENTAL DO PYTHON
+
+O Python pode ser organizado assim:
+
+Python
+├── Estruturas de Controle de Fluxo
+│   ├── Condicionais
+│   │   └── if / elif / else
+│   ├── Laços de Repetição
+│   │   ├── for
+│   │   │   ├── break
+│   │   │   ├── continue
+│   │   │   └── else
+│   │   └── while
+│   │       ├── break
+│   │       ├── continue
+│   │       └── else
+│   └── Comando neutro
+│       └── pass
+│
+├── Tratamento de Exceções
+│   └── try
+│       ├── except
+│       ├── else
+│       └── finally
+│
+├── Estruturas de Dados
+│   ├── Sequenciais
+│   │   ├── list
+│   │   │   └── métodos
+│   │   └── tuple
+│   │       └── métodos
+│   └── Associativas
+│       └── dict
+│           └── métodos
+│
+├── Abstração e Reutilização
+│   └── Funções
+│       ├── def
+│       ├── parâmetros
+│       │   ├── normais
+│       │   ├── *args
+│       │   └── **kwargs
+│       └── return
+│
+└── Organização de Código
+    ├── Módulos
+    │   └── import
+    └── Bibliotecas
+        └── módulos internos e externos
+
+
