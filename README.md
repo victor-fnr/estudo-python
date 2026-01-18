@@ -29,7 +29,7 @@ Exercícios práticos gerados por IA através de prompts estruturados para simul
 * **Ambiente de Desenvolvimento:** VS Code
 * **Distribuição e Gerenciamento:** Anaconda
 * **Notebooks:** Jupyter (extensão e ambiente interativo)
-* **Versionamento:** Git e GitHub
+* **Versionamento:** Git(Interface GitHub Desktop) e GitHub
 
 ---
 
@@ -39,7 +39,8 @@ Exercícios práticos gerados por IA através de prompts estruturados para simul
 - [x] Estruturas de decisão (`if/elif/else`).
 - [x] Estruturas de repetição (`for/while`).
 - [x] Coleções (Listas, Dicionários e Tuplas).
-- [ ] Funções e reutilização de código.
+- [x] Funções.
+- [ ] Arquivos.
 - [ ] 
 
 ---
@@ -51,4 +52,4 @@ Conteúdo prático baseado nas trilhas de aprendizado do **Téo Calvo (@teomewhy
 ---
 
 **Contato:**
-[Victor Felipe Nogueira Ribeiro] - [www.linkedin.com/in/victor-felipe-nogueira-ribeiro]
+Victor Felipe Nogueira Ribeiro - www.linkedin.com/in/victor-felipe-nogueira-ribeiro
