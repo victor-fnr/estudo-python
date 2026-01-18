@@ -21,6 +21,9 @@ Exercícios práticos gerados por IA através de prompts estruturados para simul
 * **Metodologia:** Desafios progressivos (do básico ao avançado) para cada tema estudado.
 * **Foco:** Resolução de problemas sem consulta imediata à resposta, elevando o nível de complexidade e lógica de programação a cada exercício.
 
+### 3. `desafio/`
+* **Loteria da Babilônia:** Mini-jogo de adivinhação que utiliza o módulo random, funções com parâmetros e retornos, e lógica de controle de fluxo para validação de tentativas.
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
