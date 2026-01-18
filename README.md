@@ -7,12 +7,13 @@ Este repositório é dedicado ao meu aprendizado de Python, focado em construir 
 ## 📂 Estrutura do Repositório
 
 ### 1. `curso_python/`
-Conteúdo prático acompanhado através das aulas do canal **@teomewhy**. As pastas são numeradas seguindo a ordem das aulas para facilitar a navegação:
-* **Conceitos Básicos**: Primeiros comandos e entrada/saída de dados.
-* **Estruturas de Controle**: Condicionais (`if/else`) e Laços de repetição (`for/while`).
-* **Estruturas de Dados**: Manipulação de Listas, Dicionários e Tuplas.
-* **Funções**: Organização e reutilização de lógica.
-* **exercicios/**: Desafios práticos propostos durante a trilha de aprendizado.
+Conteúdo prático acompanhado através das aulas do canal **@teomewhy**.
+* **00 a 05**: Fundamentos (Básico, Condicionais, Repetição e Estruturas de Dados).
+* **06_funcoes**: Organização e reutilização de lógica.
+* **07_arquivos**: Manipulação de leitura e escrita (Próximo passo).
+* **desafio/**: Mini-projetos práticos para consolidar o conhecimento:
+    * **Loteria da Babilônia**: Jogo de adivinhação usando `random`, funções e `for-else`.
+* **exercicios/**: Desafios propostos durante a trilha original.
 
 > *Nota: Este repositório está em constante atualização conforme avanço nos estudos.*
 
@@ -20,9 +21,6 @@ Conteúdo prático acompanhado através das aulas do canal **@teomewhy**. As pas
 Exercícios práticos gerados por IA através de prompts estruturados para simular um tutor especialista.
 * **Metodologia:** Desafios progressivos (do básico ao avançado) para cada tema estudado.
 * **Foco:** Resolução de problemas sem consulta imediata à resposta, elevando o nível de complexidade e lógica de programação a cada exercício.
-
-### 3. `desafio/`
-* **Loteria da Babilônia:** Mini-jogo de adivinhação que utiliza o módulo random, funções com parâmetros e retornos, e lógica de controle de fluxo para validação de tentativas.
 
 ---
 
