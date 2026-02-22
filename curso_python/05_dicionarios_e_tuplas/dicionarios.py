@@ -53,6 +53,6 @@ for chave, valor in dados_victor.items():
 # %%
 
 dados_victor["estado civil"] = "casado"
-dados_victor["fodase"] = None
+dados_victor["teste"] = None
 # %%
 dados_victor

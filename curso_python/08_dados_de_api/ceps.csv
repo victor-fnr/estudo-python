@@ -1,0 +1,12 @@
+;cep;logradouro;complemento;unidade;bairro;localidade;uf;estado;regiao;ibge;gia;ddd;siafi
+0;01014-000;Rua Boa Vista;lado par;;Centro;São Paulo;SP;São Paulo;Sudeste;3550308;1004;11;7107
+1;01033-000;Avenida Cásper Líbero;lado par;;Centro;São Paulo;SP;São Paulo;Sudeste;3550308;1004;11;7107
+2;01044-000;Rua Sete de Abril;lado par;;República;São Paulo;SP;São Paulo;Sudeste;3550308;1004;11;7107
+3;01310-928;Avenida Paulista;2064;Shopping Center III;Bela Vista;São Paulo;SP;São Paulo;Sudeste;3550308;1004;11;7107
+4;01503-000;Avenida da Liberdade;até 367 - lado ímpar;;Liberdade;São Paulo;SP;São Paulo;Sudeste;3550308;1004;11;7107
+5;03011-001;Rua Maria Marcolina;lado ímpar;;Brás;São Paulo;SP;São Paulo;Sudeste;3550308;1004;11;7107
+6;03014-000;Avenida Celso Garcia;até 2480 - lado par;;Brás;São Paulo;SP;São Paulo;Sudeste;3550308;1004;11;7107
+7;04010-000;Rua Domingos de Morais;até 512 - lado par;;Vila Mariana;São Paulo;SP;São Paulo;Sudeste;3550308;1004;11;7107
+8;04308-000;Avenida Engenheiro Armando de Arruda Pereira;até 940 - lado par;;Jabaquara;São Paulo;SP;São Paulo;Sudeste;3550308;1004;11;7107
+9;04309-010;Avenida Engenheiro Armando de Arruda Pereira;até 1651 - lado ímpar;;Jabaquara;São Paulo;SP;São Paulo;Sudeste;3550308;1004;11;7107
+10;04551-000;Rua Olimpíadas;;;Vila Olímpia;São Paulo;SP;São Paulo;Sudeste;3550308;1004;11;7107

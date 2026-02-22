@@ -37,7 +37,7 @@ def check_numbers(sorteio:int, usuario:int)->bool:
 numero_sorteio = random.randint(1, 15)
 total_tentativas = 3
 
-print('-----SORTEIO DA BABILÔNIA-----\n')
+print('\n-----SORTEIO DA BABILÔNIA-----\n')
 print('''REGRAS:
       1. O número sorteado é um número inteiro entre 1 e 15.
       2. Número de tentativas: 3\n''')
